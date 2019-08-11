@@ -4,7 +4,7 @@
     "tools": {
         "mediaserver": {
             "label": "Media Server",
-            "path": "ping.html"
+            "path": "ms.html"
         }
     },
 
