@@ -1,0 +1,12 @@
+{
+    "version": 0,
+
+    "tools": {
+        "mediaserver": {
+            "label": "Media Server",
+            "path": "ping.html"
+        }
+    },
+
+    "content-security-policy": "frame-src https://bastion.milkyway1up.com/sonarr/  'unsafe-inline' 'unsafe-eval' ; font-src 'self' ; script-src 'self' https://cockpit.milkyway1up.com 'unsafe-inline' ; "
+}
